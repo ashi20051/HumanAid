@@ -4,3 +4,5 @@ Our App HumanAid can provide such an invisible protective shield to the user. It
 
 # Workflow diagram of the App can be visualized as:
 ![workflow](https://user-images.githubusercontent.com/48834012/123510532-cc3fb680-d699-11eb-8123-a26380c8ef19.png)
+
+# Features of HumanAid 
