@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HumanAid</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    <string name="app_name">HumanAid</string>-->
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="mainSwitch">Switch</string>
+    <string name="setDuration">Set Duration:</string>
+    <string name="setArea">Set Area:</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

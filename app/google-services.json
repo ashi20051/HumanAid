@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "99343090155",
+    "firebase_url": "https://western-lambda-307006-default-rtdb.firebaseio.com",
+    "project_id": "western-lambda-307006",
+    "storage_bucket": "western-lambda-307006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99343090155:android:dbb924d682589a6e7399ae",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99343090155-hb6e8mhv48vkk1rikebg81o98iljnlp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVyCCMRRMcFgbj-Yq_Rfd0cXZk6A5ic_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99343090155-hb6e8mhv48vkk1rikebg81o98iljnlp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
